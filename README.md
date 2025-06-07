@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi! I'm Kirill, .NET developer from St. Petersburg
+3rd year software engineering student, specialising in web development using the .NET stack. 
+I strive to create clean, scalable code using modern practices.
 
-<!--
-**infinity-crime/infinity-crime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Technology Stack
+**Platforms**  
+.NET 8, .NET 9, .NET Framework  
 
-Here are some ideas to get you started:
+**Main Technologies**  
+- ASP.NET Core (REST API, MVC)
+- Entity Framework Core
+- WPF
+- Swagger (NSwag/Swashbuckle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Architectural Approaches**  
+- Domain-Driven Design (DDD)
+- MVVM
+- RESTful API
+
+**Tools**  
+- Git/GitHub
+- SQL (MS SQL, SQLite)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infinity-crime&show_icons=true&theme=default)](https://github.com/infinity-crime)

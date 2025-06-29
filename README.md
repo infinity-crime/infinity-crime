@@ -7,7 +7,9 @@ I strive to create clean, scalable code using modern practices.
 .NET 8, .NET 9, .NET Framework  
 
 **Main Technologies**  
-- ASP.NET Core (REST API, MVC)
+- ASP.NET Core
+- ASP.NET Core MVC (Razor Pages, Web-API Controllers)
+- HTML/CSS
 - Entity Framework Core
 - WPF
 - Swagger (NSwag/Swashbuckle)
@@ -19,6 +21,5 @@ I strive to create clean, scalable code using modern practices.
 
 **Tools**  
 - Git/GitHub
-- SQL (MS SQL, SQLite)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infinity-crime&show_icons=true&theme=default)](https://github.com/infinity-crime)
+- Bootstrap
+- SQL (MS SQL Server, SQLite)

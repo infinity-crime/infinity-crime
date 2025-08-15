@@ -12,7 +12,7 @@ I strive to create clean, scalable code using modern practices.
 - HTML/CSS
 - Entity Framework Core
 - WPF
-- Swagger (NSwag/Swashbuckle)
+- Swagger (NSwag/Swashbuckle), AutoMapper
 
 **Architectural Approaches**  
 - Domain-Driven Design (DDD)

@@ -14,12 +14,17 @@ I strive to create clean, scalable code using modern practices.
 - WPF
 - Swagger (NSwag/Swashbuckle), AutoMapper
 
+**Database**
+- PostgreSQL
+- LocalDB
+- SQLite
+
 **Architectural Approaches**  
 - Domain-Driven Design (DDD)
+- Clean architecture 
 - MVVM
 - RESTful API
 
 **Tools**  
 - Git/GitHub
 - Bootstrap
-- SQL (MS SQL Server, SQLite)

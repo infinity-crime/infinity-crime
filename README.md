@@ -8,16 +8,20 @@ I strive to create clean, scalable code using modern practices.
 
 **Main Technologies**  
 - ASP.NET Core
+- ASP.NET Core Identity
 - ASP.NET Core MVC (Razor Pages, Web-API Controllers)
 - HTML/CSS
 - Entity Framework Core
 - WPF
 - Swagger (NSwag/Swashbuckle), AutoMapper
 
+
 **Database**
 - PostgreSQL
 - LocalDB
 - SQLite
+- MongoDB
+- Redis (Cache-based DB) and OutputCache
 
 **Architectural Approaches**  
 - Domain-Driven Design (DDD)
@@ -28,3 +32,4 @@ I strive to create clean, scalable code using modern practices.
 **Tools**  
 - Git/GitHub
 - Bootstrap
+- Docker/docker-compose

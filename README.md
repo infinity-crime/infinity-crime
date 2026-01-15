@@ -10,11 +10,17 @@ I strive to create clean, scalable code using modern practices.
 - ASP.NET Core
 - ASP.NET Core Identity
 - ASP.NET Core MVC (Razor Pages, Web-API Controllers)
-- HTML/CSS
 - Entity Framework Core
 - WPF
-- Swagger (NSwag/Swashbuckle), AutoMapper
+- Swagger (NSwag/Swashbuckle)
+- AutoMapper, Mapster
+- MediatR
+- FluentValidation
 
+**Observability**
+- Prometheus
+- Graphana
+- Loki
 
 **Database**
 - PostgreSQL
@@ -28,8 +34,11 @@ I strive to create clean, scalable code using modern practices.
 - Clean architecture 
 - MVVM
 - RESTful API
+- CQRS
+- Microservice approach
 
 **Tools**  
 - Git/GitHub
 - Bootstrap
 - Docker/docker-compose
+- Kubernetes

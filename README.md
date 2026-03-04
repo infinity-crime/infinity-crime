@@ -4,14 +4,13 @@ I strive to create clean, scalable code using modern practices.
 
 ## 🛠 Technology Stack
 **Platforms**  
-.NET 8, .NET 9, .NET Framework  
+.NET 8, .NET 9, .NET 10  
 
 **Main Technologies**  
 - ASP.NET Core
 - ASP.NET Core Identity
-- ASP.NET Core MVC (Razor Pages, Web-API Controllers)
+- ASP.NET Core MVC (Razor Pages)
 - Entity Framework Core
-- WPF
 - Swagger (NSwag/Swashbuckle)
 - AutoMapper, Mapster
 - MediatR
@@ -20,11 +19,9 @@ I strive to create clean, scalable code using modern practices.
 **Observability**
 - Prometheus
 - Graphana
-- Loki
 
 **Database**
 - PostgreSQL
-- LocalDB
 - SQLite
 - MongoDB
 - Redis (Cache-based DB) and OutputCache
@@ -32,13 +29,11 @@ I strive to create clean, scalable code using modern practices.
 **Architectural Approaches**  
 - Domain-Driven Design (DDD)
 - Clean architecture 
-- MVVM
 - RESTful API
 - CQRS
 - Microservice approach
 
 **Tools**  
 - Git/GitHub
-- Bootstrap
 - Docker/docker-compose
 - Kubernetes
